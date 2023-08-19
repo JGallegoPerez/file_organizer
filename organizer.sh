@@ -3,7 +3,7 @@
 # Bash script to organize files more easily.
 
 pwd=$(pwd)
-echo The current directory is $pwd
+echo The current working directory is $pwd
 
 while true; do
     #clear

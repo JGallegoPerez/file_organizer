@@ -14,6 +14,6 @@ Here is a bash script featuring a menu to iteratively list, delete or move files
 Copy the file *organizer.sh* into the directory that will work as parent directory for all the files you want to manipulate. Run it on the shell as a bash script. 
 The iterative menu will make the rest self-explanatory.
 ## Example
-
+![organizer_crop](https://github.com/JGallegoPerez/file_organizer/assets/89183135/66ff8b82-5393-4c0e-96a2-e7ce3e8b5393)
 
 
